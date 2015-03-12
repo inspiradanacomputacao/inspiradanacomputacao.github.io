@@ -1,0 +1,54 @@
+# Site settings
+title:       Marighella
+paginate:    20
+email:       your_email@example.com
+author:      John Otander
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+baseurl:     "/blog-exemplo"
+
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Social icons
+show_social_icons: false
+github_username:
+twitter_username:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     redcarpet
+permalink:    pretty
+paginate:     20
+asset_pipeline:
+  gzip: true
+sass:
+  style: compressed
+timezone: BR
+gems:
+  - jekyll-sitemap
+exclude:
+  - deploy
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - README.md
+  - bower_components
+  - node_modules
+  - package.json
+  - assets/less
+  - test
+  - Rakefile
+  - job_status.txt
+  - setup
+  - vendor
+  - node/
