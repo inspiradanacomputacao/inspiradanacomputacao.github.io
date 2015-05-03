@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feeling Responsive</title>
+    <title>InspirAda na Computação</title>
     <description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
     <link>https://phlow.github.io/feeling-responsive/</link>
     <atom:link href="https://phlow.github.io/feeling-responsive/feed.xml" rel="self" type="application/rss+xml" />
