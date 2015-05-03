@@ -12,3 +12,8 @@
   url: http://github.com/inspiradanacomputacao
   class: icon-github
   title: "Códigos, projetos e fluxo de trabalho"
+
+- name: RSS
+  url: 
+  class: icon-rss
+  title: "Feed RSS"
