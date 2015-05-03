@@ -12,16 +12,14 @@ title: "InspirAda na Computação"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Computação e tecnologia também são assuntos de mulheres."
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
-
-
+description: "»InspirAda na Computação« é um espaço de comunicação colaborativa para dar voz às mulheres na computação, ciência e tecnologia."
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://phlow.github.io/feeling-responsive"
+url: "https://inspiradanacomputacao.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -87,7 +85,7 @@ defaults:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "Lidy Monteiro"
   -
     scope:
       path: ""
@@ -95,8 +93,8 @@ defaults:
     values:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: "your_author_name"
+      comments: true
+      author: "Lidy Monteiro"
 
 
 
@@ -155,8 +153,8 @@ msapplication_tilecolor:                "#fabb00"
 og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
 og_locale:                          "en_EN"
 og_type:                            "website"
-og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
-og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
+og_title:                           "InspirAda na Computação"
+og_description:                     "»InspirAda na Computação« é um espaço de comunicação colaborativa para dar voz às mulheres na computação, ciência e tecnologia."
 # og_url:                           ""
 # og_site_name:                     ""
 
@@ -180,7 +178,7 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #
 # used in _includes/comments.html
 
-disqus_shortname: feelingresponsive
+disqus_shortname: inspiradanacomputacao
 
 
 #      _____
@@ -204,5 +202,5 @@ sass:
 #
 # used in _includes/footer_scripts.html
 
-google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: UA-56050417-1
 
