@@ -1,21 +1,24 @@
-- menu_name: "Dankeschön"
+- menu_name: "Juntem-se a nós"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
-
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
-
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
+- name: "Parcerias"
+  url: "http://inspiradanacomputacao.github.io"
   class: "rss-link"
   title: "Images by Unsplash"
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
+- name: "Seja uma autora"
+  url: "http://inspiradanacomputacao.github.io"
+  class: "network-entypo"
+  title: "Escreva para o InspirAda na Computação"
+
+- name: "Assinar Newsletter"
+  url: "http://inspiradanacomputacao.github.io"
+  class: "services-newsletter"
+  title: "Assinar Newsletter"
+
+- name: "Anuncie no InspirAda"
+  url: "http://inspiradanacomputacao.github.io"
   class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  title: "Anuncie no InspirAda na Computação"
+
+
+

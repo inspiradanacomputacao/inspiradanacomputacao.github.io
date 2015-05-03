@@ -1,16 +1,16 @@
-- menu_name: "Services"
+- menu_name: "Saiba mais"
 
-- name: "Contact"
-  url: "/contact/"
-  class: "services-contact"
-  title: "Contact"
-
-- name: "RSS"
-  url: "/feed.xml"
+- name: "Desenvolvemos seu projeto"
+  url: "http://inspiradanacomputacao.github.io"
   class: "rss-link"
   title: "Subscribe to RSS"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
+- name: "Palestras e aulas particulares"
+  url: "http://inspiradanacomputacao.github.io"
   class: "sitemap-link"
   title: "Sitemap for Google Webmastertools"
+
+- name: "Contato"
+  url: "/contact/"
+  class: "services-contact"
+  title: "Contato"
