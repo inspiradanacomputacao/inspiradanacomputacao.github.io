@@ -21,7 +21,7 @@ widget-2:
 widget-3:
     title: "Parceria Novatec"
     url: 'http://inspiradanacomputacao.github.io/'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="#">/a>.'
+    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="#"></a>.'
     image: unsplash_4-303x182.jpg
 ---
 
