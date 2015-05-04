@@ -12,7 +12,7 @@ widget-1:
     title: "Blog"
     url: 'http://inspiradanacomputacao.github.io/blog/'
     text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-    image: blog.jpg
+    image: teste.jpg
 widget-2:
     title: "Setup InspirAda"
     url: 'http://inspiradanacomputacao.github.io/setup'
