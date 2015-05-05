@@ -168,11 +168,11 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
       form,
       input { margin-bottom: 0; }
 
-      input { 
-        height: $topbar-input-height; 
-        padding-top: .35rem; 
-        padding-bottom: .35rem; 
-        font-size: $topbar-button-font-size; 
+      input {
+        height: $topbar-input-height;
+        padding-top: .35rem;
+        padding-bottom: .35rem;
+        font-size: $topbar-button-font-size;
       }
 
       .button, button {
@@ -274,8 +274,9 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         .title-area { background: $topbar-bg; }
 
         .toggle-topbar {
-          a { color: $topbar-menu-link-color-toggled;
-      span::after {
+          a {
+            color: $topbar-menu-link-color-toggled;
+            span::after {
               // Shh, don't tell, but box-shadows create the menu icon :)
               // Change the color of the bars when the menu is expanded, using given thickness from hamburger() above
               box-shadow: 0 0 0 1px $topbar-menu-icon-color-toggled,
