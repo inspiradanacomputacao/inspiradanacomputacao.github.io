@@ -46,7 +46,7 @@ $topbar-button-font-size: 0.75rem !default;
 $topbar-button-top: 7px !default;
 
 // Style the top bar dropdown elements
-$topbar-dropdown-bg: $oil !default;
+$topbar-dropdown-bg: #B5509C;
 $topbar-dropdown-link-color: $white !default;
 $topbar-dropdown-link-color-hover: $topbar-link-color-hover !default;
 $topbar-dropdown-link-bg: #8E236B;
@@ -68,8 +68,8 @@ $topbar-menu-link-font-size: rem-calc(13) !default;
 $topbar-menu-link-weight: $font-weight-bold !default;
 $topbar-menu-link-color: $white !default;
 $topbar-menu-icon-color: $white !default;
-$topbar-menu-link-color-toggled: $jumbo !default;
-$topbar-menu-icon-color-toggled: $jumbo !default;
+$topbar-menu-link-color-toggled: #B5509C;
+$topbar-menu-icon-color-toggled: #B5509C;
 
 // Transitions and breakpoint styles
 $topbar-transition-speed: 300ms !default;
