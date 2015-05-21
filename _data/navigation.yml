@@ -20,11 +20,11 @@
   side: left
 
 - title: "Seja uma autora"
-  url: "/info/"
+  url: "/"
   side: left
 
 - title: "Newsletter"
-  url: "http://inspiradanacomputacao.github.io"
+  url: "/"
   side: left
 
 - title: "Sobre nós"
@@ -39,6 +39,6 @@
   url: "/search/"
   side: right
 - title: "Doar"
-  url: "/info/"
+  url: "https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=0c31c77876662fe4b0c3cdcdd7441d35#rmcl"
   side: right
 
