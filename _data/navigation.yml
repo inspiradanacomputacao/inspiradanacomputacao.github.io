@@ -9,7 +9,7 @@
   - title: Blog
     url: "/blog/"
   - title: "Arquivos do Blog"
-    url: "/blog/archive/"
+    url: "/blog/arquivo/"
 
 - title: "Galeria"
   url: "/galeria/"
