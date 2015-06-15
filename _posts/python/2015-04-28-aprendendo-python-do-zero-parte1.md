@@ -13,6 +13,8 @@ header:
     caption_url: "http://florianklauer.de/"
 categories:
     - Python
+breadcrumb: true
+sidebar: right
 tags:
     - Python
     - Programação

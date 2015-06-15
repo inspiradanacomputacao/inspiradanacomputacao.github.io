@@ -4,12 +4,12 @@ title: "Python para começar"
 subheadline: "Tutorial"
 meta_teaser: "Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
 teaser: "<em>Feeling Responsive</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
-header: no
-image:
-    thumb:  banner2.png
-    homepage: banner2.png
-    caption: Image by Antonio
-    caption_url: "http://www.aisleone.net/"
+header:
+    image_fullwidth: "homepage_typewriter.jpg"
+    caption: Image by Florian Klauer
+    caption_url: "http://florianklauer.de/"
+breadcrumb: true
+sidebar: right
 categories:
     - python
 ---
