@@ -15,7 +15,7 @@ widget-1:
     image: blog.jpg
 
 widget-2:
-    title: "Setup InspirAda"
+    title: "Seja uma autora"
     url: 'http://inspiradanacomputacao.github.io/setup'
     text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://inspiradanacomputacao.github.io/setup">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
     image: unsplash_4-303x182.jpg

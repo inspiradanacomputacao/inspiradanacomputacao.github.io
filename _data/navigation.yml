@@ -11,10 +11,6 @@
   - title: "Arquivos do Blog"
     url: "/blog/archive/"
 
-- title: "Setup InspirAda"
-  url: "http://inspiradanacomputacao.github.io/setup"
-  side: left
-
 - title: "Galeria"
   url: "/design/gallery/"
   side: left
@@ -32,7 +28,7 @@
   side: left
 
 - title: "Contato"
-  url: "/contact/"
+  url: "/contato/"
   side: left
 
 - title: "Pesquisar"
