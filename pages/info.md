@@ -4,7 +4,7 @@ title: "Sobre"
 subheadline: "Somos um canal InspirAda"
 show_meta: false
 teaser: "InspirAda na Computação« é um espaço de comunicação colaborativa para dar voz às mulheres na computação, ciência e tecnologia."
-permalink: "/info/"
+permalink: "/sobre/"
 breadcrumb: true
 header:
     image_fullwidth: "unsplash_4.jpg"

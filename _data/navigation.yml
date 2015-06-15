@@ -12,8 +12,15 @@
     url: "/blog/archive/"
 
 - title: "Galeria"
-  url: "/design/gallery/"
+  url: "/galeria/"
   side: left
+  dropdown:
+  - title: Eventos
+    url: "/galeria/eventos/"
+  - title: palestras
+    url: "/galeria/palestras/"
+  - title: Vídeos
+    url: "/galeria/videos/"
 
 - title: "Seja uma autora"
   url: "/"
@@ -24,7 +31,7 @@
   side: left
 
 - title: "Sobre nós"
-  url: "/info/"
+  url: "/sobre/"
   side: left
 
 - title: "Contato"
