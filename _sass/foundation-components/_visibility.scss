@@ -245,7 +245,7 @@ $visibility-breakpoint-queries:
         display: inherit !important;
       }
       #{$visibility-none-list} {
-        display: none !important;
+        display: inherit !important;
       }
       @if $include-accessibility-classes != false {
         #{$visibility-visible-list} {
@@ -285,7 +285,7 @@ $visibility-breakpoint-queries:
   .show-for-landscape,
   .hide-for-portrait { display: inherit !important; }
   .hide-for-landscape,
-  .show-for-portrait { display: none !important; }
+  .show-for-portrait { display: inherit !important; }
 
   /* Specific visibility for tables */
   table {
@@ -314,7 +314,7 @@ $visibility-breakpoint-queries:
     .show-for-landscape,
     .hide-for-portrait { display: inherit !important; }
     .hide-for-landscape,
-    .show-for-portrait { display: none !important; }
+    .show-for-portrait { display: inherit !important; }
 
     /* Specific visibility for tables */
     table {
@@ -344,7 +344,7 @@ $visibility-breakpoint-queries:
     .show-for-portrait,
     .hide-for-landscape { display: inherit !important; }
     .hide-for-portrait,
-    .show-for-landscape { display: none !important; }
+    .show-for-landscape { display: inherit !important; }
 
     /* Specific visibility for tables */
     table {
@@ -371,10 +371,10 @@ $visibility-breakpoint-queries:
   }
 
   /* Touch-enabled device targeting */
-  .show-for-touch { display: none !important; }
+  .show-for-touch { display: inherit !important; }
   .hide-for-touch { display: inherit !important; }
   .touch .show-for-touch { display: inherit !important; }
-  .touch .hide-for-touch { display: none !important; }
+  .touch .hide-for-touch { display: inherit !important; }
 
   /* Specific visibility for tables */
   table.hide-for-touch { display: table !important; }
