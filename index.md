@@ -7,7 +7,7 @@
 layout: frontpage
 title: "InspirAda na Computação"
 header:
-   image_fullwidth: "banner_principal.png"
+   image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "Blog"
     url: 'http://inspiradanacomputacao.github.io/blog/'
