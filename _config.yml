@@ -36,7 +36,7 @@ urlimg: "https://inspiradanacomputacao.github.io/images"
 
 
 # Logo size is 600x80 pixels
-logo: "logo_teste.png"
+logo:
 
 
 # Paginates all X entries
@@ -203,4 +203,3 @@ sass:
 # used in _includes/footer_scripts.html
 
 google_analytics_tracking_id: UA-56050417-1
-
