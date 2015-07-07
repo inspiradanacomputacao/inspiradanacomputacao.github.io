@@ -1,7 +1,5 @@
 
-![https://github.com/inspiradanacomputacao/inspiradanacomputacao.github.io/blob/master/images/banner_introgithub.jpg]
-
 ### Blog InspirAda na Computação
-Baseado em Jekyll e Responsive Design, tema utilizado: [*Feeling Responsive*][1]
+Tema baseado: [*Feeling Responsive*][1]  e uso de Jekyll, Foundation e Responsive Design. 
 
 [1]: https://github.com/Phlow/feeling-responsive
