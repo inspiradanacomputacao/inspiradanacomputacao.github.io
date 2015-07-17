@@ -11,18 +11,18 @@ header:
 widget-1:
     title: "Blog"
     url: 'https://inspiradanacomputacao.github.io/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+    text: '<em>Fique à vontade e acesse nosso conteúdo:</em><br>Computação, tecnologia e cultura > Escrito pelas mulheres, dedicado às minorias e acessível a tod@s!<br />'
     image: blog.jpg
 
 widget-2:
     title: "Seja uma autora"
-    url: 'https://inspiradanacomputacao.github.io/setup'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://inspiradanacomputacao.github.io/setup">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
+    url: 'https://inspiradanacomputacao.github.io/blog'
+    text: '<em>Que tal seu post no InspirAda? </em><br>Queremos mais mulheres compartilhando experiências, ideias e conhecimento com o mundo!'
     image: header_unsplash_4.jpg
 widget-3:
     title: "Newsletter"
     url: 'https://inspiradanacomputacao.github.io/'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="#"></a>.'
+    text: '<em>Você sempre atualizad@</em><br> Receba gratuitamente em seu email novidades do blog e informações de eventos!'
     image: icone_news.jpg
 ---
 
