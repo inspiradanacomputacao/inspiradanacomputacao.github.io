@@ -5,12 +5,12 @@
   class: "rss-link"
   title: "Subscribe to RSS"
 
-- name: "Palestras e aulas particulares"
+- name: "Parcerias"
   url: "http://inspiradanacomputacao.github.io"
   class: "sitemap-link"
-  title: "Sitemap for Google Webmastertools"
+  title: "Parceria InspirAda"
 
 - name: "Contato"
-  url: "/contact/"
+  url: "/contato/"
   class: "services-contact"
-  title: "Contato"
+  title: "Fale Conosco"

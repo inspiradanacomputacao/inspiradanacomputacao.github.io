@@ -1,9 +1,5 @@
 - menu_name: "Juntem-se a nós"
 
-- name: "Parcerias"
-  url: "http://inspiradanacomputacao.github.io"
-  class: "rss-link"
-  title: "Images by Unsplash"
 
 - name: "Seja uma autora"
   url: "http://inspiradanacomputacao.github.io"
@@ -11,7 +7,7 @@
   title: "Escreva para o InspirAda na Computação"
 
 - name: "Assinar Newsletter"
-  url: "http://inspiradanacomputacao.github.io"
+  url: "http://inspiradanacomputacao.us11.list-manage1.com/subscribe?u=e6a849e909bc803ed73b456c2&id=a85bc7db3b"
   class: "services-newsletter"
   title: "Assinar Newsletter"
 
