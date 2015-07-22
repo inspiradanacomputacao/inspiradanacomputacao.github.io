@@ -21,7 +21,7 @@ widget-2:
     image: header_unsplash_4.jpg
 widget-3:
     title: "Newsletter"
-    url: 'https://inspiradanacomputacao.github.io/'
+    url: 'http://inspiradanacomputacao.us11.list-manage1.com/subscribe?u=e6a849e909bc803ed73b456c2&id=a85bc7db3b'
     text: '<em>Você sempre atualizad@</em><br> Receba gratuitamente em seu email novidades do blog e informações de eventos!'
     image: icone_news.jpg
 ---
