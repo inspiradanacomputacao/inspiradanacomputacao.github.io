@@ -5,6 +5,8 @@ show_meta: false
 subheadline: "InspirAda na Computação"
 teaser: ""
 permalink: "/contato/"
+header:
+    image_fullwidth: "banner_principal.jpg"
 ---
 
 

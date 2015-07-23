@@ -7,7 +7,7 @@ teaser: "InspirAda na Computação« é um espaço de comunicação colaborativa
 permalink: "/sobre/"
 breadcrumb: true
 header:
-    image_fullwidth: "unsplash_4.jpg"
+    image_fullwidth: "banner_principal.jpg"
 ---
 
 Compartilhamos conteúdo como forma de estimular mulheres para área de computação, promover o acesso ao conhecimento técnico e trazer como resultado a luta pela conquista da igualdade de oportunidades e fomentar o interesse feminino para áreas tecnológicas.
