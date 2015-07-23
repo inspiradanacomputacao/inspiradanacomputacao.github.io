@@ -4,6 +4,8 @@ show_meta: false
 title: "#1 Teste "
 subheadline: "Entrevista Inspirada"
 teaser: "If you want to show videos in a large manner, the video template is the right choice."
+header:
+    image_fullwidth: "banner_principal.jpg"
 tags:
     - video
 categories:

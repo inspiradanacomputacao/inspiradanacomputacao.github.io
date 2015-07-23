@@ -9,6 +9,8 @@ tags:
     - 
 image:
    thumb: "unsplash_7_thumb.jpg"
+header:
+    image_fullwidth: "banner_principal.jpg"
 ---
 You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and than use some foundation magic.
 
