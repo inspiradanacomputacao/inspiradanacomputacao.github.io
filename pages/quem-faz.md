@@ -54,7 +54,7 @@ header:
 <div class="show-for-large-up">
     <div class="row">
         <div class="small-12 columns">
-            <h2>Colaboradorxs</h2>
+            <h2>Colaboradores</h2>
         </div>
     </div>
 </div>
