@@ -30,9 +30,14 @@
   url: "http://inspiradanacomputacao.us11.list-manage1.com/subscribe?u=e6a849e909bc803ed73b456c2&id=a85bc7db3b"
   side: left
 
-- title: "Sobre nós"
-  url: "/sobre/"
+- title: "Quem Somos"
+  url: "/#/"
   side: left
+  dropdown:
+  - title: Sobre
+    url: "/sobre/"
+  - title: Quem faz
+    url: "/quem-faz/"
 
 - title: "Contato"
   url: "/contato/"
