@@ -26,7 +26,7 @@ header:
   	  </div>
 	  <div class="large-6 columns">
 	      <p align="justify">
-	      	Fundadora e editora do InspirAda na Computação. Formada em Técnico em Informática pela ETEPAM, estagiária de Desenvolvimento Web na Fundaj e estudante de Lic. em Computação UFRPE. Em 2014, participou da fundação do Women Who Code - Recife e do PyLadies Recife se tornando co-fundadora. 
+	      	Fundadora e editora do InspirAda na Computação. Formada em Técnico em Informática pela ETEPAM, estagiária de Desenvolvimento Web na Fundaj e estudante de Lic. em Computação UFRPE. Em 2014, participou da fundação do Women Who Code - Recife e do PyLadies Recife se tornando co-fundadora. Co-coordenadora de Mídias Sociais da Python Brasil. 
 	      </p>
 	  </div>
 	</div>
@@ -46,7 +46,7 @@ header:
       </div>
     <div class="large-6 columns">
         <p align="justify">
-          Design e Ilustradora do InspirAda na Computação. Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por Design e Programação. Nerd incurável e desenhista em seu tempo livre.
+          Designer e Ilustradora do InspirAda na Computação. Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por Design e Programação. Nerd incurável e desenhista em seu tempo livre.
         </p>
     </div>
   </div>
