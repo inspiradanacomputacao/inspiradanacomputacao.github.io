@@ -9,21 +9,17 @@
   - title: Blog
     url: "/blog/"
   - title: "Arquivos do Blog"
-    url: "/blog/archive/"
+    url: "/blog/arquivo/"
 
 - title: "Galeria"
   url: "/galeria/"
   side: left
   dropdown:
-  - title: Eventos
+  - title: Eventos e Palestras
     url: "/galeria/eventos/"
-  - title: palestras
-    url: "/galeria/palestras/"
-  - title: Vídeos
-    url: "/galeria/videos/"
 
 - title: "Seja uma autora"
-  url: "/"
+  url: "/parceria-inspirada/"
   side: left
 
 - title: "Quem Somos"
@@ -32,8 +28,10 @@
   dropdown:
   - title: Sobre
     url: "/sobre/"
-  - title: Quem faz
-    url: "/quem-faz/"
+  - title: Equipe
+    url: "/equipe/"
+  - title: Colaboradores
+    url: "/colaboradores/"
 
 - title: "Contato"
   url: "/contato/"
