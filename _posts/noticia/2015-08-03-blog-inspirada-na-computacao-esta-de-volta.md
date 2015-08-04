@@ -82,10 +82,11 @@ Que gostou levanta a mão õ/
 
 <p>Dalianny Vieira é uma Ilutradora que programa, uma mulher muito talentosa, com uma capacidade incrível e com visão bem alinhada com o InspirAda na Computação.  Todo seu potencial vai estar presente em nossos projetos! Estamos muito felizes por mais essa pessoa junto conosco! </p>
 
-<h6>Nos próximos dias:</h6> 
+<h6>Nesta semana:</h6> 
 <p> - Votação da mascote InspirAda na Computação e sorteio de brinde </p>
+<p> - Parceria InspirAda: Seleção de colunistas e outras parcerias colaborativas. Saiba como participar <a href="https://inspiradanacomputacao.com/parceria-inspirada/" target="_blank">aqui</a>!</p>
 
-<h6>Daqui em diante:</h6> 
+<h6>Nos próximos dias</h6> 
 <p>- Ilustrações que inspiram o dia das mulheres e podem promover educação para uma nova cultura nos ambientes de TI </p>
 
 <h6>Em breve:</h6> 
@@ -95,7 +96,7 @@ Que gostou levanta a mão õ/
 <h3> Para não perder nada: </h3>
 - <a href="http://inspiradanacomputacao.us11.list-manage1.com/subscribe?u=e6a849e909bc803ed73b456c2&id=a85bc7db3b" target="_blank">Assine nossa Newsletter</a> <br />
 - <a href="https://www.facebook.com/InspiradaNaComputacao" target="_blank">Curta e acompanhe a Fan Page</a><br />
-- Nos apoie divulgando o blog e recomendando para seus contatos /o/
+- Nos apoie divulgando o blog, recomendando para seus contatos ou enviando críticas e sugestões /õ/
 
 
 
