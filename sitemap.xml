@@ -3,39 +3,9 @@
   
     
     <url>
-      <loc>https://inspiradanacomputacao.github.io/python/python-para-comecar/</loc>
+      <loc>https://inspiradanacomputacao.github.io/noticia/blog-inspirada-na-computacao-esta-de-volta/</loc>
       
-        <lastmod>2015-11-18T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://inspiradanacomputacao.github.io/galeria/videos/</loc>
-      
-        <lastmod>2015-06-14T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://inspiradanacomputacao.github.io/galeria/palestras/</loc>
-      
-        <lastmod>2015-06-14T00:00:00-03:00</lastmod>
+        <lastmod>2015-08-03T00:00:00-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -50,67 +20,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/galeria/eventos/</loc>
       
-        <lastmod>2015-06-14T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://inspiradanacomputacao.github.io/python/aprendendo-python-do-zero-parte1/</loc>
-      
-        <lastmod>2015-04-28T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://inspiradanacomputacao.github.io/xviii-pug-pe/</loc>
-      
-        <lastmod>2014-09-23T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://inspiradanacomputacao.github.io/cpr3/</loc>
-      
-        <lastmod>2014-09-23T00:00:00-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://inspiradanacomputacao.github.io/entrevista/entrevista-teste/</loc>
-      
-        <lastmod>2014-09-14T00:00:00-03:00</lastmod>
+        <lastmod>2015-07-23T00:00:00-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -126,7 +36,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/404.html</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -139,9 +49,9 @@
   
     
     <url>
-      <loc>https://inspiradanacomputacao.github.io/blog/archive/</loc>
+      <loc>https://inspiradanacomputacao.github.io/blog/arquivo/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -156,7 +66,22 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/changelog/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://inspiradanacomputacao.github.io/colaboradores/</loc>
+      
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -171,7 +96,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/contato/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -186,7 +111,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/design/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -201,7 +126,22 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/documentation/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://inspiradanacomputacao.github.io/equipe/</loc>
+      
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -216,7 +156,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/feed.xml</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -231,7 +171,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/galeria/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -246,7 +186,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/getting-started/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -261,7 +201,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/headers/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -276,7 +216,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/humans.txt</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -291,7 +231,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/blog/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -306,7 +246,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -321,7 +261,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/sobre/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -334,9 +274,9 @@
   
     
     <url>
-      <loc>https://inspiradanacomputacao.github.io/quem-faz/</loc>
+      <loc>https://inspiradanacomputacao.github.io/parceria-inspirada/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -351,7 +291,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/redirect-page/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -366,7 +306,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/roadmap/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -381,7 +321,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/robots.txt</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -396,7 +336,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/search/</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -411,7 +351,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/sitemap.xml</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -426,22 +366,7 @@
     <url>
       <loc>https://inspiradanacomputacao.github.io/assets/css/styles_feeling_responsive.css</loc>
       
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://inspiradanacomputacao.github.io/blog/page2/</loc>
-      
-        <lastmod>2015-07-29T20:25:09-03:00</lastmod>
+        <lastmod>2015-08-04T00:42:31-03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
