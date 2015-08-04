@@ -96,7 +96,7 @@ Que gostou levanta a mão õ/
 <h3> Para não perder nada: </h3>
 - <a href="http://inspiradanacomputacao.us11.list-manage1.com/subscribe?u=e6a849e909bc803ed73b456c2&id=a85bc7db3b" target="_blank">Assine nossa Newsletter</a> <br />
 - <a href="https://www.facebook.com/InspiradaNaComputacao" target="_blank">Curta e acompanhe a Fan Page</a><br />
-- Nos apoie divulgando o blog, recomendando para seus contatos ou enviando críticas e sugestões /õ/
+- Nos apoie divulgando o blog ou enviando críticas e sugestões /õ/
 
 
 
