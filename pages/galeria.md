@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Galeria InspirAda na Computação"
+subheadline: "Contribuições"
 header:
     image_fullwidth: "banner_principal.jpg"
 permalink: "/galeria/"
