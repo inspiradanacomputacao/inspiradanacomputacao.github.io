@@ -1,16 +1,19 @@
-- menu_name: "Saiba mais"
+- menu_name: "Juntem-se a nós"
 
-- name: "Desenvolvemos seu projeto"
-  url: "http://inspiradanacomputacao.github.io"
-  class: "rss-link"
-  title: "Subscribe to RSS"
+- name: "Parceria InspirAda"
+  url: "https://inspiradanacomputacao.com/parceria-inspirada/"
+  class: "network-entypo"
+  title: "Escreva para o InspirAda na Computação"
 
-- name: "Parcerias"
-  url: "http://inspiradanacomputacao.github.io"
-  class: "sitemap-link"
-  title: "Parceria InspirAda"
+- name: "Assinar Newsletter"
+  url: "http://inspiradanacomputacao.us11.list-manage1.com/subscribe?u=e6a849e909bc803ed73b456c2&id=a85bc7db3b"
+  class: "services-newsletter"
+  title: "Assinar Newsletter"
 
 - name: "Contato"
   url: "/contato/"
   class: "services-contact"
   title: "Fale Conosco"
+
+
+
