@@ -20,7 +20,7 @@ tags:
     - Retorno
 comments: true
 ---
-</em>*Por Lidiane Monteiro, Fundadora do Blog InspirAda na Computação</em><br />
+<em>*Por Lidiane Monteiro, Fundadora do Blog InspirAda na Computação</em><br />
 <p align="justify">6 meses? Sim, isso mesmo! Desde fevereiro deste ano o Blog InspirAda na Computação ficou fora do ar, após praticamente 6 meses de atividade. O mais importante é que estamos de volta oficialmente em julho, durante a Campus Party Recife 4, e retomando neste 6 de agosto os post. O número 6 nos persegue?! rsrs Talvez!</p>
 
 <p align="justify">De fevereiro até agora não deixamos de manter contato com as comunidades e as/os leitores, continuamos publicando em <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank"> nossa fan page</a> no facebook e mantendo comunicação nos grupos, mas nada se compara a ter o nosso próprio espaço e veículo de comunicação. </p>
