@@ -22,7 +22,7 @@ header:
       </div>
     <div class="large-6 columns">
         <p align="justify">
-          Graduanda em Engenharia da Computação pelo CIn-UFPE, apaixonada por Tecnologia, Inovação e Empreendedorismo, Embaixadora do Technovation Challenge. Já vivenciou experiência acadêmicas em países como Estados Unidos e Suíça. Nas horas vagas, gosta de dar palestras ou workshops sobre Tecnologia e Empreendedorismo, fazendo com que as pessoas busquem acreditar nos sonhos delas.
+          Graduanda em Engenharia da Computação pelo CIn-UFPE, apaixonada por Tecnologia, Inovação e Empreendedorismo, Embaixadora do Technovation Challenge. Já vivenciou experiência acadêmicas em países como EUA e Suíça. Nas horas vagas, gosta de dar palestras ou workshops sobre Tecnologia e Empreendedorismo, fazendo com que as pessoas busquem acreditar nos sonhos delas.
         </p>
     </div>
   </div>
