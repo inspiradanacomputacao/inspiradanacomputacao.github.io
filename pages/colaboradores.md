@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Colaboradores"
+title: "Colaboradoras"
 subheadline: "InspirAda na Computação"
 show_meta: false
 teaser: ""
-permalink: "/colaboradores/"
+permalink: "/colaboradoras/"
 breadcrumb: true
 header:
     image_fullwidth: "banner_principal.jpg"
