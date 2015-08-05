@@ -93,7 +93,7 @@ Que gostou levanta a mão õ/
 As novidades não param por ai, confira o que teremos: 
 
 <h6>Nesta semana:</h6> 
-<p> - Votação da mascote InspirAda na Computação e sorteio de brinde </p>
+<p> - Votação da mascote InspirAda na Computação e sorteio de brinde na <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank">fan page InspirAda</a></p>
 <p> - Parceria InspirAda: Seleção de colunistas e outras parcerias colaborativas. Saiba como participar <a href="https://inspiradanacomputacao.com/parceria-inspirada/" target="_blank">aqui</a>!</p>
 
 <h6>Nos próximos dias</h6> 
