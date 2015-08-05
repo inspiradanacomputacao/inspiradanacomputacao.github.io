@@ -13,6 +13,24 @@ header:
 <div class="show-for-large-up">
     <div class="row">
         <div class="small-12 columns">
+            <h3>Lhaís Rodrigues</h3>
+        </div><!-- /.small-12.columns -->
+    </div>
+  <div class="row">
+    <div class="large-6 columns">
+        <img src="http://inspiradanacomputacao.github.io/images/perfil_lhais.jpg" width= "200px" alt="">
+      </div>
+    <div class="large-6 columns">
+        <p align="justify">
+          Graduanda em Engenharia da Computação no CIn-UFPE, apaixonada por Tecnologia, Inovação e Empreendedorismo. Colaboradora do Women Who Code Recife, do Centro de Inovação da Microsoft e Sociedade Brasileira de Computação, embaixadora do Technovation Challenge, além de hoje, atuar como Mentora e Conselheira Tecnológica da ManyGeekz. Já trabalhou em organizações como a AIESEC e vivenciou experiência acadêmicas em países como Estados Unidos e Suíça. Nas horas vagas, gosta de dar palestras ou workshops sobre Tecnologia e Empreendedorismo, fazendo com que as pessoas busquem acreditar nos sonhos delas.
+        </p>
+    </div>
+  </div>
+</div>
+
+<div class="show-for-large-up">
+    <div class="row">
+        <div class="small-12 columns">
             <h3>Você!</h3>
         </div><!-- /.small-12.columns -->
     </div>
