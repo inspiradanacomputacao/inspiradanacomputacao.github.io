@@ -20,8 +20,8 @@ tags:
     - Retorno
 comments: true
 ---
-
-<p align="justify">6 meses? Sim, isso mesmo! Desde fevereiro deste ano o Blog InspirAda na Computação ficou fora do ar, após praticamente 6 meses de atividade. O mais importante é que estamos de volta oficialmente em julho, durante a Campus Party Recife 4, e retomando neste 6 de agosto. O número 6 nos persegue?! rsrs Talvez!</p>
+</em>*Por Lidiane Monteiro, Fundadora do Blog InspirAda na Computação</em><br />
+<p align="justify">6 meses? Sim, isso mesmo! Desde fevereiro deste ano o Blog InspirAda na Computação ficou fora do ar, após praticamente 6 meses de atividade. O mais importante é que estamos de volta oficialmente em julho, durante a Campus Party Recife 4, e retomando neste 6 de agosto os post. O número 6 nos persegue?! rsrs Talvez!</p>
 
 <p align="justify">De fevereiro até agora não deixamos de manter contato com as comunidades e as/os leitores, continuamos publicando em <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank"> nossa fan page</a> no facebook e mantendo comunicação nos grupos, mas nada se compara a ter o nosso próprio espaço e veículo de comunicação. </p>
 
@@ -41,12 +41,11 @@ comments: true
 
 <p align="justify">Criado o nome <a href="http://inspiradanacomputacao.com/sobre/" target="_blank">"InspirAda na Computação"</a> ainda não tinha certeza se de fato era um bom nome para os requisitos. Porém, naquele momento era o melhor em relação aos que havia criado antes e resolvi arriscar validar. Assim, caso notasse que poderia melhorar o nome, iria seguindo o processo criativo (assunto para outro post) enquanto tocava as atividades do blog. </p> 
 
-<p align="justify">O pontapé para validar e iniciar o futuro blog foi criar de imediato a Fan Page no facebook chamada <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank">"InspirAda"</a>, divulgá-la e compartilhar bons conteúdos de terceiros. A fan page também seria suporte do meu blog pessoal de mesmo nome, até que com o passar do tempo ele poderia amadurer de um blog pessoal para algo colaborativo com mais mulheres participando.
+<p align="justify">O pontapé para validar e iniciar o futuro blog foi criar de imediato a Fan Page no facebook chamada <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank">"InspirAda"</a>, divulgá-la e compartilhar bons conteúdos de terceiros. A fan page também seria suporte do meu blog pessoal de mesmo nome, com o passar do tempo ele poderia amadurer de um blog pessoal para algo colaborativo com mais mulheres participando.
 
-<p align="justify">Assim que criei a fan page Lhaís Rodrigues achou super bacana e queria ajudar de alguma maneira. O feedback foi importante e me ajudou a acreditar que estava no caminho certo que era conseguir que outras mulheres se identificasse com o projeto. Muito disposta e criativa Lhaís contribuiu criando flyer e depois com matérias na cobertura que fizemos na Campus Party Recife 3. 
+<p align="justify">Assim que criei a fan page <a href="https://www.facebook.com/lhais.rodrigues.5" target="_blank">Lhaís Rodrigues</a> achou super bacana e queria ajudar de alguma maneira. O feedback foi importante e me ajudou a acreditar que estava no caminho certo que era conseguir que outras mulheres se identificasse com o projeto. Muito disposta e criativa Lhaís contribuiu criando flyer e depois com matéria na cobertura que fizemos na Campus Party Recife 3. 
     
 <h3>Mais um degrau</h3>
-<img src="http://inspiradanacomputacao.github.io/images/cpr3_inspirada.jpg" align="center" width="500px" alt="">
 
 <p align="justify">Em julho de 2014, criei a <a href="http://inspiradanacomputacao.wordpress.com/" target="_blank">primeira versão do blog</a> durante a Campus Party Recife 3, aproveitando que já iria compartilhar na <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank">Fan Page InspirAda</a> o que achasse interessante do evento e notei também no primeiro dia da Campus que não haveria melhor momento para criar oficialmente o Blog, ainda que sem domínio registrado. No fundo, era apenas mais um teste e validação de uma nova fase do projeto. </p> 
 
@@ -87,7 +86,7 @@ Que gostou levanta a mão õ/
 
 <p align="justify">Além disso, nosso blog quer promover a educação e mudança de cultura nessas áreas, de diversas formas, do conteúdo escrito ao mais artístico e interativo. E finalmente agora temos condições de começar a diversificar o tipo de conteúdo do <a href="https://inspiradanacomputacao.com" target="_blank">InspirAda na Computação</a>, principalmente porque conhecemos mais uma mulher InspirAda: </p>
 
-<p>Dalianny Vieira é uma Ilutradora que programa, uma mulher muito talentosa, com uma capacidade incrível e com visão bem alinhada com o <a href="https://inspiradanacomputacao.com/sobre/" target="_blank">InspirAda na Computação</a>.  Todo seu potencial vai estar presente em nossos projetos! Estamos muito felizes por mais essa pessoa junto conosco! </p>
+<p><a href="https://www.facebook.com/DaliannyVieira" target="_blank">Dalianny Vieira</a> é uma Ilutradora que programa, uma mulher muito talentosa, com uma capacidade incrível e com visão bem alinhada com o <a href="https://inspiradanacomputacao.com/sobre/" target="_blank">InspirAda na Computação</a>.  Todo seu potencial vai estar presente em nossos projetos! Estamos muito felizes por mais essa pessoa junto conosco! </p>
 
 As novidades não param por ai, confira o que teremos: 
 
