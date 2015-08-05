@@ -22,7 +22,7 @@ comments: true
 ---
 
 <em>Por Lidiane Monteiro, <br />Fundadora do Blog InspirAda na Computação</em>
-<p align="justify">Desde fevereiro deste ano o <a href="http://inspiradanacomputacao.com" target="_blank">Blog InspirAda na Computação</a> estava fora do ar, na ocasião tínhamos cerca de 6 meses de atividade. E finalmente, voltamos e de cara nova! Mês passado durante a Campus Party Recife 4 retomamos a cobertura de eventos e publicaremos todo material durante este mês de agosto, estávamos esperando o lançamento do nosso novo portal. Espero que vocês gostem do que preparamos! </p>
+<p align="justify">Desde fevereiro deste ano o <a href="http://inspiradanacomputacao.com" target="_blank">Blog InspirAda na Computação</a> estava fora do ar, mas finalmente: voltamos e de cara nova! Mês passado durante a Campus Party Recife 4 retomamos a cobertura de eventos e publicaremos todo material durante este mês de agosto com o lançamento do nosso novo portal. Espero que vocês gostem do que preparamos! </p>
 
 <p align="justify">Durante esse tempo não deixamos de manter contato com as comunidades e as/os leitores, continuamos publicando em <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank"> nossa fan page</a> no facebook e nos grupos, mas nada se compara a ter o nosso próprio espaço e veículo de comunicação. </p>
 
