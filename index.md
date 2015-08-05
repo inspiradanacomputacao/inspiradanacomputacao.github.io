@@ -10,13 +10,13 @@ header:
    image_fullwidth: "banner_principal.jpg"
 widget-1:
     title: "Blog"
-    url: 'https://inspiradanacomputacao.github.io/blog/'
+    url: 'http://inspiradanacomputacao.github.io/blog/'
     text: '<em>Fique à vontade e acesse nosso conteúdo:</em><br>Computação, tecnologia e cultura > Escrito pelas mulheres, dedicado às minorias e acessível a tod@s!<br />'
     image: blog.jpg
 
 widget-2:
     title: "Seja uma autora"
-    url: 'https://inspiradanacomputacao.github.io/blog'
+    url: 'http://inspiradanacomputacao.github.io/parceria-inspirada/'
     text: '<em>Que tal seu post no InspirAda? </em><br>Queremos mais mulheres compartilhando experiências, ideias e conhecimento com o mundo!'
     image: header_unsplash_4.jpg
 widget-3:
