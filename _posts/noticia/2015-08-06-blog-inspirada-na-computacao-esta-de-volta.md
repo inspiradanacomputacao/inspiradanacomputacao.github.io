@@ -43,9 +43,10 @@ comments: true
 
 <p align="justify">O pontapé para validar e iniciar o futuro blog foi criar de imediato a Fan Page no facebook chamada <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank">"InspirAda"</a>, divulgá-la e compartilhar bons conteúdos de terceiros. A fan page também seria suporte do meu blog pessoal de mesmo nome, até que com o passar do tempo ele poderia amadurer de um blog pessoal para algo colaborativo com mais mulheres participando.
 
-<p align="justify">Assim que criei a fan page Lhaís Rodrigues achou super bacana e queria ajudar de alguma maneira. O feedback foi importante e me ajudou a acreditar que estava no caminho certo que era conseguir que outras mulheres se identificasse com o projeto. Muito disposta e criativa Lhaís contribuiu criando flyer e depois com matérias na cobertura que fizemos na Campus Party Recife 3. Lhaís viu nascer e fez/az parte de importantes momentos do <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank">InspirAda na Computação</a>.</p>
-
+<p align="justify">Assim que criei a fan page Lhaís Rodrigues achou super bacana e queria ajudar de alguma maneira. O feedback foi importante e me ajudou a acreditar que estava no caminho certo que era conseguir que outras mulheres se identificasse com o projeto. Muito disposta e criativa Lhaís contribuiu criando flyer e depois com matérias na cobertura que fizemos na Campus Party Recife 3. 
+    
 <h3>Mais um degrau</h3>
+<img src="http://inspiradanacomputacao.github.io/images/cpr3_inspirada.jpg" align="center" width="500px" alt="">
 
 <p align="justify">Em julho de 2014, criei a <a href="http://inspiradanacomputacao.wordpress.com/" target="_blank">primeira versão do blog</a> durante a Campus Party Recife 3, aproveitando que já iria compartilhar na <a href="https://www.facebook.com/inspiradanacomputacao" target="_blank">Fan Page InspirAda</a> o que achasse interessante do evento e notei também no primeiro dia da Campus que não haveria melhor momento para criar oficialmente o Blog, ainda que sem domínio registrado. No fundo, era apenas mais um teste e validação de uma nova fase do projeto. </p> 
 
