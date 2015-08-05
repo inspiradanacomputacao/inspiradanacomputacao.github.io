@@ -88,7 +88,7 @@ Que gostou levanta a mão õ/
 
 <p align="justify">Além disso, nosso blog quer promover a educação e mudança de cultura nessas áreas, de diversas formas, do conteúdo escrito ao mais artístico e interativo. E finalmente agora temos condições de começar a diversificar o tipo de conteúdo do <a href="https://inspiradanacomputacao.com" target="_blank">InspirAda na Computação</a>, principalmente porque conhecemos mais uma mulher InspirAda: </p>
 
-<p><a href="https://www.facebook.com/DaliannyVieira" target="_blank">Dalianny Vieira</a> é uma Ilutradora que programa, uma mulher muito talentosa, com uma capacidade incrível e com visão bem alinhada com o <a href="https://inspiradanacomputacao.com/sobre/" target="_blank">InspirAda na Computação</a>.  Todo seu potencial vai estar presente em nossos projetos! Estamos muito felizes por mais essa pessoa junto conosco! </p>
+<p><a href="https://www.facebook.com/DaliannyVieira" target="_blank">Dalianny Vieira</a> é uma Ilutradora que programa, uma mulher muito talentosa e com visão bem alinhada com o <a href="https://inspiradanacomputacao.com/sobre/" target="_blank">InspirAda na Computação</a>.  Todo seu potencial vai fortalecer o que almejamos e estamos felizes em tê-la no projeto.</p>
 
 As novidades não param por ai, confira o que teremos: 
 
