@@ -23,7 +23,7 @@
   side: left
 
 - title: "Quem Somos"
-  url: "/#/"
+  url: "/sobre/"
   side: left
   dropdown:
   - title: Sobre
