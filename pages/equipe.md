@@ -85,7 +85,7 @@ header:
     </div>
     <div class="large-6 columns">
         <p align="justify">
-          Desenvolvedor do InspirAda na Computação e apoiador das causas femininas na TI. Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor na ThoughtWorks. 
+          Desenvolvedor do InspirAda na Computação e apoiador das causas femininas na TI. Já tentou ser designer mas não deu muito certo, não curte tanto a cultura geek mas curte um bom rap. Também professor da Academia Jedi.
         </p>
     </div>
   </div>
