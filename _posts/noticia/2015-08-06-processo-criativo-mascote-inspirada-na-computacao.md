@@ -57,15 +57,15 @@ Queremos compartilhar o processo criativo da mascote <a href="http://inspiradana
 <img src="http://inspiradanacomputacao.github.io/images/sorteio_caneca_votacao.jpg" alt=""> <br />
 
 
-<p align="justify">Participe do sorteio que estamos fazendo no facebook e concorra a uma Caneca InspirAda:</p>
+<br /><p align="justify">Participe do sorteio que estamos fazendo no facebook e concorra a uma Caneca InspirAda:</p>
 
 <h4>Regras:</h4>
 <p>
-	<strong>- Curta a fan page: InspirAda na Computação: </strong><a href="http://www.facebook.com/inspiradanacomputacao" target="_blank"><br />
+	<strong>- Curta a fan page: InspirAda na Computação: </strong><a href="http://www.facebook.com/inspiradanacomputacao" target="_blank"></a><br />
 	<strong>- Marque na imagem de divulgação do sorteio duas mulheres da área de computação/ciência/tecnologia ou que você gostaria de incentivar para área: </strong><br />
 	<strong>- Compartilhe a imagem de divulgação do sorteio em modo público e escreva nela seu voto (Voto 1 ou Voto 2):</strong><br />
-	<strong>- Entre na app Sorteio.me e clique em participar: <a href="http://sorteiefb.com.br/tab/promocao/478471" target="_blank"> </strong><br />
-	<strong>- Assine a Newsletter: </strong><a href="http://goo.gl/o5Os1S" target="_blank"> </strong><br />
+	<strong>- Entre na app Sorteio.me e clique em participar:</strong> <a href="http://sorteiefb.com.br/tab/promocao/478471" target="_blank"> </a><br />
+	<strong>- Assine a Newsletter: </strong><a href="http://goo.gl/o5Os1S" target="_blank"></a> </strong><br />
 </p>
 
 <p align="justify">Deixe seu comentário :) Será muito bom saber sua opinião sobre a mascote InspirAda na Computação! <br />
