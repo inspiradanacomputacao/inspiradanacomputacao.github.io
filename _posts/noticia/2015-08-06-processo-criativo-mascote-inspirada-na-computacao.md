@@ -65,7 +65,7 @@ Queremos compartilhar o processo criativo da mascote <a href="http://inspiradana
 	<strong>- Marque na imagem de divulgação do sorteio duas mulheres da área de computação/ciência/tecnologia ou que você gostaria de incentivar para área: </strong><br />
 	<strong>- Compartilhe a imagem de divulgação do sorteio em modo público e escreva nela seu voto (Voto 1 ou Voto 2):</strong><br />
 	<strong>- Entre na app Sorteio.me e clique em participar:</strong> <a href="http://sorteiefb.com.br/tab/promocao/478471" target="_blank">http://sorteiefb.com.br/tab/promocao/478471</a><br />
-	<strong>- Assine a Newsletter: </strong><a href="http://goo.gl/o5Os1S" target="_blank"></a>http://goo.gl/o5Os1S</strong><br />
+	<strong>- Assine a Newsletter: </strong><a href="http://goo.gl/o5Os1S" target="_blank">http://goo.gl/o5Os1S</a><br />
 </p>
 
 <p align="justify">Deixe seu comentário :) Será muito bom saber sua opinião sobre a mascote InspirAda na Computação! <br />
