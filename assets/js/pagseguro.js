@@ -12,6 +12,8 @@ donationButton.onclick = function() {
 	formm.appendChild(currency);
 	formm.appendChild(receiverEmail);
 
+	document.body.appendChild(formm);
+
 	formm.submit();
 
 	return false;
