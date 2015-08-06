@@ -62,8 +62,8 @@ Queremos compartilhar o processo criativo da mascote <a href="http://inspiradana
 <h4>Regras:</h4>
 <p>
 	<strong>- Curta a fan page: InspirAda na Computação: </strong><a href="http://www.facebook.com/inspiradanacomputacao" target="_blank">http://www.facebook.com/inspiradanacomputacao</a><br /><br />
-	<strong>- Marque na imagem de divulgação do sorteio duas mulheres da área de computação/ciência/tecnologia ou que você gostaria de incentivar para área:</strong><a href="https://goo.gl/LpPHQS" target="_blank">https://goo.gl/LpPHQS</a><br /><br />
-	<strong>- Compartilhe a imagem de divulgação do sorteio em modo público e escreva nela seu voto (Voto 1 ou Voto 2):</strong><a href="https://goo.gl/LpPHQS" target="_blank">https://goo.gl/LpPHQS</a><br /><br />
+	<strong>- Marque na imagem de divulgação do sorteio duas mulheres da área de computação/ciência/tecnologia ou que você gostaria de incentivar para área:</strong><a href="https://goo.gl/LpPHQS" target="_blank"> https://goo.gl/LpPHQS</a><br /><br />
+	<strong>- Compartilhe a imagem de divulgação do sorteio em modo público e escreva nela seu voto (Voto 1 ou Voto 2):</strong><a href="https://goo.gl/LpPHQS" target="_blank"> https://goo.gl/LpPHQS</a><br /><br />
 	<strong>- Entre na app Sorteio.me e clique em participar:</strong> <a href="http://sorteiefb.com.br/tab/promocao/478471" target="_blank">http://sorteiefb.com.br/tab/promocao/478471</a><br /><br />
 	<strong>- Assine a Newsletter: </strong><a href="http://goo.gl/o5Os1S" target="_blank">http://goo.gl/o5Os1S</a><br /><br />
 </p>
