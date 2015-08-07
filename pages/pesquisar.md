@@ -1,8 +1,13 @@
 ---
 layout: page
+title: "Pesquisar"
 show_meta: false
-title: "Search"
-permalink: "/search/"
+subheadline: "InspirAda na Computação"
+teaser: ""
+permalink: "/pesquisar/"
+breadcrumb: true
+header:
+    image_fullwidth: "banner_principal.jpg"
 ---
 
 {% include google_search.html %}
