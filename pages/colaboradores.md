@@ -10,23 +10,6 @@ header:
     image_fullwidth: "banner_principal.jpg"
 
 ---
-<div class="show-for-large-up">
-    <div class="row">
-        <div class="small-12 columns">
-            <h3>Lhaís Rodrigues</h3>
-        </div><!-- /.small-12.columns -->
-    </div>
-  <div class="row">
-    <div class="large-6 columns">
-        <img src="http://inspiradanacomputacao.github.io/images/perfil_lhais.jpg" width= "200px" alt="">
-      </div>
-    <div class="large-6 columns">
-        <p align="justify">
-          Graduanda em Engenharia da Computação pelo CIn-UFPE, apaixonada por Tecnologia, Inovação e Empreendedorismo, Embaixadora do Technovation Challenge. Já vivenciou experiência acadêmicas em países como EUA e Suíça. Nas horas vagas, gosta de dar palestras ou workshops sobre Tecnologia e Empreendedorismo, fazendo com que as pessoas busquem acreditar nos sonhos delas.
-        </p>
-    </div>
-  </div>
-</div>
 
 <div class="show-for-large-up">
     <div class="row">
@@ -44,6 +27,24 @@ header:
         </p>
     </div>
   </div> 
+</div>
+
+<div class="show-for-large-up">
+    <div class="row">
+        <div class="small-12 columns">
+            <h3>Lhaís Rodrigues</h3>
+        </div><!-- /.small-12.columns -->
+    </div>
+  <div class="row">
+    <div class="large-6 columns">
+        <img src="http://inspiradanacomputacao.github.io/images/perfil_lhais.jpg" width= "200px" alt="">
+      </div>
+    <div class="large-6 columns">
+        <p align="justify">
+          Graduanda em Engenharia da Computação pelo CIn-UFPE, apaixonada por Tecnologia, Inovação e Empreendedorismo, Embaixadora do Technovation Challenge. Já vivenciou experiência acadêmicas em países como EUA e Suíça. Nas horas vagas, gosta de dar palestras ou workshops sobre Tecnologia e Empreendedorismo, fazendo com que as pessoas busquem acreditar nos sonhos delas.
+        </p>
+    </div>
+  </div>
 </div>
 
 <div class="show-for-large-up">
