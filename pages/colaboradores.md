@@ -40,10 +40,10 @@ header:
       </div>
     <div class="large-6 columns">
         <p align="justify">
-          Graduanda em Ciência da Computação na UFCG, onde trabalha como pesquisadora e desenvolvedora no Laboratório de Sistemas Distribuídos. Durante sua trajetória já conquistou prêmios acadêmicos, como o "Intel Excellence in Computer Science" e foi delegada no "National Youth Science Camp". Fora do meio acadêmico, Ana tem vários hobbies, dentre eles escrever sobre ficção e dar uma de jornalista, por isso está no InspirAda e possui seu blog <a href="https://blogdeviagensdeana.wordpress.com/">Ana++</a>.
+          Graduanda em Ciência da Computação na UFCG, onde trabalha como pesquisadora e desenvolvedora no Laboratório de Sistemas Distribuídos. Durante sua trajetória já conquistou prêmios acadêmicos, como o "Intel Excellence in Computer Science" e foi delegada no "National Youth Science Camp". Fora do meio acadêmico, Ana tem vários hobbies, dentre eles escrever sobre ficção e dar uma de jornalista, por isso está no <a href="http://inspiradanacomputacao.com/colaboradoras/" target="_blank">InspirAda</a> e possui seu blog <a href="https://blogdeviagensdeana.wordpress.com/" target="_blank">Ana++</a>.
         </p>
     </div>
-  </div>
+  </div> 
 </div>
 
 <div class="show-for-large-up">
