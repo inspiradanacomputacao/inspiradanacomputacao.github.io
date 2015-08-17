@@ -31,6 +31,24 @@ header:
 <div class="show-for-large-up">
     <div class="row">
         <div class="small-12 columns">
+            <h3>Ana Ribeiro</h3>
+        </div><!-- /.small-12.columns -->
+    </div>
+  <div class="row">
+    <div class="large-6 columns">
+        <img src="http://inspiradanacomputacao.github.io/images/perfil_ana.jpeg" width= "200px" alt="">
+      </div>
+    <div class="large-6 columns">
+        <p align="justify">
+          Graduanda em Ciência da Computação na UFCG, onde trabalha como pesquisadora e desenvolvedora no Laboratório de Sistemas Distribuídos. Durante sua trajetória já conquistou prêmios acadêmicos, como o "Intel Excellence in Computer Science" e foi delegada no "National Youth Science Camp". Fora do meio acadêmico, Ana tem vários hobbies, dentre eles escrever sobre ficção e dar uma de jornalista, por isso está no InspirAda e possui seu blog <a href="https://blogdeviagensdeana.wordpress.com/">Ana++</a>.
+        </p>
+    </div>
+  </div>
+</div>
+
+<div class="show-for-large-up">
+    <div class="row">
+        <div class="small-12 columns">
             <h3>Você!</h3>
         </div><!-- /.small-12.columns -->
     </div>
