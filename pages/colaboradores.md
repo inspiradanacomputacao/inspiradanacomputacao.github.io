@@ -50,6 +50,24 @@ header:
 <div class="show-for-large-up">
     <div class="row">
         <div class="small-12 columns">
+            <h3>Paula Grangeiro</h3>
+        </div><!-- /.small-12.columns -->
+    </div>
+  <div class="row">
+    <div class="large-6 columns">
+        <img src="http://inspiradanacomputacao.github.io/images/perfil_paula.jpg" width= "200px" alt="">
+      </div>
+    <div class="large-6 columns">
+        <p align="justify">
+          Desenvolvedora de software por formação, desenhista por hobbie e colecionadora de gatos nas demais horas. Movida a desafios que envolvam linhas de códigos e café, atualmente engajada na missão de trazer inclusão e diversidade na área de tecnologia.
+        </p>
+    </div>
+  </div>
+</div>
+
+<div class="show-for-large-up">
+    <div class="row">
+        <div class="small-12 columns">
             <h3>Você!</h3>
         </div><!-- /.small-12.columns -->
     </div>
