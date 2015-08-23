@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Empoderamento de mulheres na TI: é necessário?"
+title: "Empoderamento de mulheres na TI é necessário?"
 modified: 2015-08-06
 subheadline: "Opinião"
 teaser: "O crescimento de projetos organizados por ONG's, empresas e governos podem nos levar ao questionamento."
