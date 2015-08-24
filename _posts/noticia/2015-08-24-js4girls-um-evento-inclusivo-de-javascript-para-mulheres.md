@@ -5,7 +5,7 @@ modified: 2015-08-24
 subheadline: "Notícia"
 teaser: "Ensino de Javascript empodera mulheres no Rio de Janeiro"
 image:
-    thumb:  js4girls.png
+    thumb:  js4girls_rj_foto1.JPG
 header:
     image_fullwidth: "banner_principal.jpg"
     caption: Image by InspirAda na Computação
