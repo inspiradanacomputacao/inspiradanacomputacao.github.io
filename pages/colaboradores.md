@@ -68,6 +68,24 @@ header:
 <div class="show-for-large-up">
     <div class="row">
         <div class="small-12 columns">
+            <h3>Soraya Roberta</h3>
+        </div><!-- /.small-12.columns -->
+    </div>
+  <div class="row">
+    <div class="large-6 columns">
+        <img src="http://inspiradanacomputacao.github.io/images/perfil_soraya.png" width= "200px" alt="">
+      </div>
+    <div class="large-6 columns">
+        <p align="justify">
+          Escreve crônicas, contos e poesia desde os 7 anos de idade. Em 2012, após entrar para o curso Técnico Integrado em Informática, pelo IFRN-Caicó, teve a ideia de começar a escrever a <a href="http://poesiacompilada.com/" target="_blank">Poesia Compilada</a>. É voluntária do CCSL-Caicó e tutoria de Sociologia no IFRN-Caicó, escreve também para seu <a href="http://www.riscopoetico.blogspot.com.br/" target="_blank">blog Risco Poético</a>, <a href="http://mulheresnacomputacao.com/" target="_blank">Mulheres na Computação</a> e <a href="http://pessoas.cc/" target="_blank">Pessoas.cc</a>.
+        </p>
+    </div>
+  </div>
+</div>
+
+<div class="show-for-large-up">
+    <div class="row">
+        <div class="small-12 columns">
             <h3>Você!</h3>
         </div><!-- /.small-12.columns -->
     </div>
