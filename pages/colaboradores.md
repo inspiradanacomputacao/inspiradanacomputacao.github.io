@@ -59,7 +59,7 @@ header:
       </div>
     <div class="large-6 columns">
         <p align="justify">
-          Desenvolvedora de software por formação, desenhista por hobbie e colecionadora de gatos nas demais horas. Movida a desafios que envolvam linhas de códigos e café, atualmente engajada na missão de trazer inclusão e diversidade na área de tecnologia.
+          Desenvolvedora de software por formação, desenhista por hobbie e colecionadora de gatos nas demais horas. Movida a desafios que envolvam linhas de códigos e café, atualmente engajada na missão de trazer inclusão e diversidade na área de tecnologia. Contribuiu no primeiro Django Girls da América Latina e no JS4Girls RJ.
         </p>
     </div>
   </div>
