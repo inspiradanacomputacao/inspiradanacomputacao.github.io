@@ -7,6 +7,65 @@
     <atom:link href="https://inspiradanacomputacao.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>JS4Girls: um evento inclusivo de JavaScript para mulheres</title>
+        <description>&lt;p style=&quot;font-style:italic;&quot;&gt;Por Paula Grangeiro, &lt;br /&gt;Desenvolvedora e Colunista no &lt;a href=&quot;http://inspiradanacomputacao.com/&quot; target=&quot;_blank&quot;&gt;InspirAda&lt;/a&gt;&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt;Sábado (15/08) rolou por aqui a &lt;a href=&quot;https://fb.me/JS4GirlsRio&quot; target=&quot;_blank&quot;&gt;versão carioca do JS4Girls&lt;/a&gt;. O &lt;a href=&quot;http://js4girls.com/&quot; target=&quot;_blank&quot;&gt;JS4Girls&lt;/a&gt; é mais um evento que vem para completar o cenário de iniciativas com a missão de diminuir a diferença de gênero na área de tecnologia. O objetivo do projeto é empoderar mulheres através de workshops, palestras e promover o networking entre as participantes e instrutoras.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt;Por aqui a bandeira foi levantada pela &lt;a href=&quot;https://twitter.com/dayanyrec&quot; target=&quot;_blank&quot;&gt;Dayany&lt;/a&gt;, frontend developer na Edools e ativista da &lt;a href=&quot;https://www.mozilla.org/pt-BR/contribute/&quot; target=&quot;_blank&quot;&gt;Comunidade Mozilla&lt;/a&gt;. Ela entrou em contato comigo e mais um time de meninas, grandes profissionais da área, para ajudá-la a por em prática o projeto inicialmente idealizado por &lt;a href=&quot;https://twitter.com/osuissa&quot; target=&quot;_blank&quot;&gt;Jean Carlo&lt;/a&gt;(também conhecido como Suissa). Na agenda do evento muito Git, HTML, CSS e JavaScript, em um currículo montado por nós mesmas.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;http://inspiradanacomputacao.github.io/images/js4girls_rj_foto1.JPG&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption&gt;&lt;a href=&quot;https://twitter.com/paulagrangeiro&quot; target=&quot;_blank&quot;&gt;Paula&lt;/a&gt; falando um pouco sobre Git e GitHub.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;http://inspiradanacomputacao.github.io/images/js4girls_rj_foto2.JPG&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption&gt;&lt;a href=&quot;https://twitter.com/yuizinha&quot; target=&quot;_blank&quot;&gt;Anna&lt;/a&gt; introduzindo HTML às participantes.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;http://inspiradanacomputacao.github.io/images/js4girls_rj_foto3.JPG&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption&gt;&lt;a href=&quot;https://twitter.com/__biancarosa&quot; target=&quot;_blank&quot;&gt;Bianca&lt;/a&gt; em seu workshop de CSS.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;http://inspiradanacomputacao.github.io/images/js4girls_rj_foto4.JPG&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption&gt;&lt;a href=&quot;https://fb.me/darlene.medeiros.169&quot; target=&quot;_blank&quot;&gt;Darlene&lt;/a&gt; e &lt;a href=&quot;https://fb.me/rai200890&quot; target=&quot;_blank&quot;&gt;Raissa&lt;/a&gt; falando sobre JavaScript.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;http://inspiradanacomputacao.github.io/images/js4girls_rj_foto5.JPG&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption&gt;As participantes, em sua maioria iniciantes, tinham como objetivo criar um site do zero conforme o avanço do workshop. &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;http://inspiradanacomputacao.github.io/images/js4girls_rj_foto6.JPG&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption&gt;Altas idéias com uma vista dessa...&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;http://inspiradanacomputacao.github.io/images/js4girls_rj_foto7.JPG&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p align=&quot;justify&quot;&gt;Além de ensinar, queríamos inspirá-las e fazê-las acreditar de que não é preciso muito para incluir a programação como uma ferramenta comum do dia-a-dia. Esperamos que a nossa missão tenha sido concluída com sucesso e que em breve possamos colher os frutos: mais mulheres, inspirando e compartilhando conteúdo de qualidade, promovendo a inclusão e diversidade na área de tecnologia.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt;** Agradecimentos à &lt;a href=&quot;https://twitter.com/samantacicilia&quot; target=&quot;_blank&quot;&gt;Samanta&lt;/a&gt; por ajudar na organização e com as fotos, junto com &lt;a href=&quot;https://fb.me/tomaz.cunha.7&quot; target=&quot;_blank&quot;&gt;Tomaz&lt;/a&gt;. Agradecimentos especiais também à &lt;a href=&quot;http://elogroup.com.br/&quot; target=&quot;_blank&quot;&gt;EloGroup&lt;/a&gt; por nos ter cedido o espaço para que realizássemos o evento. Agradecimentos também a todos aqueles que acreditaram e ajudaram de alguma maneira e que, pela minha falta de memória, não foram citados aqui D: &lt;/p&gt;
+
+&lt;h4&gt; Para não perder nada: &lt;/h4&gt;
+&lt;p&gt;
+- &lt;a href=&quot;http://inspiradanacomputacao.us11.list-manage1.com/subscribe?u=e6a849e909bc803ed73b456c2&amp;amp;id=a85bc7db3b&quot; target=&quot;_blank&quot;&gt;Assine nossa Newsletter&lt;/a&gt; &lt;br /&gt;
+- &lt;a href=&quot;https://www.facebook.com/InspiradaNaComputacao&quot; target=&quot;_blank&quot;&gt;Curta e acompanhe a Fan Page InspirAda na Computação&lt;/a&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;E o mais importante, deixe seu comentário. Vamos trocar ideias?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Aug 2015 00:00:00 -0300</pubDate>
+        <link>https://inspiradanacomputacao.github.io/noticia/js4girls-um-evento-inclusivo-de-javascript-para-mulheres/</link>
+        <guid isPermaLink="true">https://inspiradanacomputacao.github.io/noticia/js4girls-um-evento-inclusivo-de-javascript-para-mulheres/</guid>
+      </item>
+    
+      <item>
         <title>Empoderamento de mulheres na TI é necessário?</title>
         <description>&lt;p style=&quot;font-style:italic;&quot;&gt;Por Ana Ribeiro, &lt;br /&gt;Autora do &lt;a href=&quot;https://blogdeviagensdeana.wordpress.com&quot; target=&quot;_blank&quot;&gt;Blog Ana ++&lt;/a&gt; e Colunista no &lt;a href=&quot;http://inspiradanacomputacao.com/&quot; target=&quot;_blank&quot;&gt;InspirAda&lt;/a&gt;&lt;/p&gt;
 
