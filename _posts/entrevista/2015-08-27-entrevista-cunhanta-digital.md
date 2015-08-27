@@ -32,7 +32,7 @@ comments: true
     <figcaption>Participantes do Cunhantã Digital - UFAM</figcaption>
 </figure>
 
-<strong>1) Por que criar o Cunhantã Digital?</strong><br />
+<p><strong>1) Por que criar o Cunhantã Digital?</strong></p>
 <p align="justify">Por que a população brasileira é composta na sua maioria por mulheres, mas nas áreas de TI temos menos de 30% delas e quando olhamos para o Amazonas menos ainda. Logo, em uma área onde temos carência de profissionais estamos simplesmente desperdiçando uma significativa parcela que poderia estar contribuindo muito. É preciso mudar este quadro a partir de ações afirmativas para inclusão da mulher. Isso passa por políticas públicas mas também por diminuir os preconceitos e em preparar a mulher para concorrer em pé de igualdade com os homens.</p>
 
 <p align="justify"><strong>2) Este nome, Cunhantã Digital, surgiu de onde, qual o seu significado?</strong><br />
