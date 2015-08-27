@@ -11,7 +11,7 @@ header:
     caption: Image by InspirAda na Computação
     caption_url: 
 categories:
-    - opiniao
+    - entrevista
 breadcrumb: true
 sidebar: right  
 tags:  
