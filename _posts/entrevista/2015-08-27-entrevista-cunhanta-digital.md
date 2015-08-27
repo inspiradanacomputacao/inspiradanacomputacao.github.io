@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cunhantã Digital: 'A população brasileira é composta na sua maioria por mulheres, mas nas áreas de TI apenas 30%.É preciso mudar este quadro a partir de ações afirmativas para inclusão' "
+title: "'A população brasileira é composta na sua maioria por mulheres, mas nas áreas de TI apenas 30%. É preciso mudar este quadro a partir de ações afirmativas' "
 modified: 2015-08-27
 subheadline: "Entrevista"
 teaser: "Um pequeno e poético bate-papo com as organizadoras do Cunhantã Digital"
