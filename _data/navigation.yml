@@ -18,9 +18,12 @@
   - title: Eventos e Palestras
     url: "/galeria/eventos/"
 
-- title: "Seja uma autora"
-  url: "/parceria-inspirada/"
+- title: "ADAdos"
+  url: ""
   side: left
+  dropdown:
+  - title: Iniciativas
+    url: "/iniciativas/"
 
 - title: "Quem Somos"
   url: "/sobre/"
