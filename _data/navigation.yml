@@ -19,7 +19,7 @@
     url: "/galeria/eventos/"
 
 - title: "ADAdos"
-  url: ""
+  url: "adados"
   side: left
   dropdown:
   - title: Iniciativas
