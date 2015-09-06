@@ -19,11 +19,11 @@
     url: "/galeria/eventos/"
 
 - title: "ADAdos"
-  url: "adados"
+  url: "/#/"
   side: left
   dropdown:
   - title: Iniciativas
-    url: "/iniciativas/"
+    url: "/adados/iniciativas/"
 
 - title: "Quem Somos"
   url: "/sobre/"

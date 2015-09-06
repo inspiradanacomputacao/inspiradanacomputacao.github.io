@@ -4,7 +4,7 @@ title: "Iniciativas de empoderamento feminino na STEM e Empreendedorismo"
 subheadline: ""
 show_meta: false
 teaser: "Lista de projetos/comunidades no Brasil para mulheres na Ciência, Tecnologia, Engenharia e Matemática (STEM) e Empreendedorismo"
-permalink: "/iniciativas/"
+permalink: "/adados/iniciativas/"
 breadcrumb: true
 comments: true
 header:
