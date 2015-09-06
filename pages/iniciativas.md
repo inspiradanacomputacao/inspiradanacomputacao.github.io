@@ -20,8 +20,6 @@ Se você participa de algum e não está nesta lista, deixe as informações no 
 
 ### JS4Girls
 - Site: <a href="www.js4girls.com" target="_blank">www.js4girls.com</a>
-- Contato: 
-- Mês/Ano de fundação: Agosto/2015
 
 ### Mulheres na Computação
 - Site: <a href="www.mulheresnacomputacao.com" target="_blank">www.mulheresnacomputacao.com</a>
@@ -30,10 +28,8 @@ Se você participa de algum e não está nesta lista, deixe as informações no 
 
 ### Mulheres na Tecnologia
 - Site: <a href="www.mulheresnatecnologia.org" target="_blank">www.mulheresnatecnologia.org</a>
-- Contato: 
-- Mês/Ano de fundação: 
 
 ### Women Who Code Recife
-- Site: <a href="http://www.meetup.com/pt/Women-Who-Code-Recife/" target="_blank">http://www.meetup.com/pt/Women-Who-Code-Recife/</a>
+- Site: <a href="http://www.meetup.com/pt/Women-Who-Code-Recife/" target="_blank">www.meetup.com/pt/Women-Who-Code-Recife</a>
 - Contato: wwcrecife@womenwhocode.com
 - Mês/Ano de fundação: Janeiro/2014
