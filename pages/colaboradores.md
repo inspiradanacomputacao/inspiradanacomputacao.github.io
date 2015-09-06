@@ -41,7 +41,7 @@ header:
       </div>
     <div class="large-6 columns">
         <p align="justify">
-          Bacharel em Ciência da Computação pela UFPE, pós-graduada em Engenharia de Software e Mestra em Redes Neurais(na época do filme "Inteligência Artificial" — e que rendeu alguns artigos) na mesma instituição. Atualmente, Analista de Métricas de PF. Gosta de ministrar treinamento para disseminar o conhecimento em métricas de software.Tem como hobby ler Drauzio Varella e pedalar. Corredora, não para diminuir o tempo dos 5 km de rua, mas para colecionar medalhas!
+          Bacharel em Ciência da Computação pela UFPE, pós-graduada em Engenharia de Software e Mestra em Redes Neurais(na época do filme "Inteligência Artificial" — e que rendeu alguns artigos) na mesma instituição. Atualmente, Analista de Métricas de PF. Gosta de ministrar treinamento para disseminar o conhecimento em métricas de software.
         </p>
     </div>
   </div> 
