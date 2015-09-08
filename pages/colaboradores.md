@@ -68,6 +68,24 @@ header:
 <div class="show-for-large-up">
     <div class="row">
         <div class="small-12 columns">
+            <h3>Nathalia Sautchuk Patrício</h3>
+        </div><!-- /.small-12.columns -->
+    </div>
+  <div class="row">
+    <div class="large-6 columns">
+        <img src="http://inspiradanacomputacao.github.io/images/perfil_nathalia.jpg" width= "200px" alt="">
+      </div>
+    <div class="large-6 columns">
+        <p align="justify">
+          Graduação e Mestrado em Engenharia de Computação pela Escola Politécnica da USP. Tem experiência na área de Engenharia de Computação, com ênfase em Engenharia de Software, atuando principalmente nos seguintes temas: Informática na Educação e Engenharia de Requisitos. É professora no Centro Estadual de Educação Tecnológica Paula Souza e no curso livre “Programador de Sistemas” no SENAC. Também atua como Assessora Técnica do Comitê Gestor da Internet no Brasil (CGI.br).
+        </p>
+    </div>
+  </div>
+</div>
+
+<div class="show-for-large-up">
+    <div class="row">
+        <div class="small-12 columns">
             <h3>Paula Grangeiro</h3>
         </div><!-- /.small-12.columns -->
     </div>
