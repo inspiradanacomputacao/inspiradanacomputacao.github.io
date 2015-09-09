@@ -26,9 +26,9 @@ comments: true
 
 <p style='font-style:italic;'>Por Nathalia Patrício, Docente, Assessora Técnica do CGI.br e Colunista no <a href="http://inspiradanacomputacao.com/" target="_blank">InspirAda</a></p>
 
-<p style='font-style:italic;'>Post originalmente publicado em Maio de 2015.</p>
+<p style='font-style:italic;'>Post <a href="http://nathaliapatricio.blogspot.com.br/2015/05/de-graca-ate-injecao-na-testa.html" target="_blank">originalmente publicado</a> em Maio de 2015.</p>
 
-<p align="justify">Há cerca de um mês vêm sendo publicadas na mídias diversas notícias sobre o projeto Internet.org e suas controvérsias. Esse projeto é liderado pela empresa Facebook e congrega diversas empresas do setor de TICs (Samsung, Nokia, Ericsson, Mediatek, Opera). Segundo o próprio site do projeto, o objetivo é "juntar líderes de tecnologia, organizações sem fins lucrativos e comunidades locais para conectarem os dois terços do mundo que não têm acesso à internet".</p>
+<p align="justify">Há cerca de um mês vêm sendo publicadas na mídias diversas notícias sobre o projeto <a href="https://internet.org/" target="_blank">Internet.org</a> e suas controvérsias. Esse projeto é liderado pela empresa Facebook e congrega diversas empresas do setor de TICs (Samsung, Nokia, Ericsson, Mediatek, Opera). Segundo o próprio site do projeto, o objetivo é "juntar líderes de tecnologia, organizações sem fins lucrativos e comunidades locais para conectarem os dois terços do mundo que não têm acesso à internet".</p>
 
 <p align="justify">E como o projeto pretende fazer isso? Ele atua em três linhas de ação. Na primeira delas é a disponibilizado um aplicativo de telefonia móvel capaz de prover acesso gratuito à serviços básicos (informações de interesse local, sites de busca de emprego, acesso ao próprio Facebook, acesso à Wikipedia, motores de buscas específicos, etc.). Esse app já está disponível em partes da África, América Latina e Ásia.</p>
 
@@ -61,4 +61,4 @@ comments: true
 - <a href="http://inspiradanacomputacao.us11.list-manage1.com/subscribe?u=e6a849e909bc803ed73b456c2&id=a85bc7db3b" target="_blank">Assine nossa Newsletter</a> <br />
 - <a href="https://www.facebook.com/InspiradaNaComputacao" target="_blank">Curta e acompanhe a Fan Page InspirAda na Computação</a><br />
 </p>
-E deixe seu comentário. Vamos trocar ideias?
+Deixe seu comentário. Vamos trocar ideias?
