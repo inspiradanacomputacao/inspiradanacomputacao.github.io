@@ -55,11 +55,11 @@ header:
     </div>
   <div class="row">
     <div class="large-6 columns">
-        <img src="http://inspiradanacomputacao.github.io/images/perfil_karen.png" width= "200px" alt="">
+        <img src="http://inspiradanacomputacao.github.io/images/perfil_karen.jpg" width= "200px" alt="">
       </div>
     <div class="large-6 columns">
-        <p align="justify">
-          Professora do Instituto de Computação da UFMT e Mestra em Computação pela UFF. Coordenadora do <a href="http://www.deleteseupreconceito.com/" target="_blank">Delete Seu Preconceito</a> e <a href="http://www.meetup.com/pt/Meninas-Digitais-SBC/" target="_blank">Meninas Digitais Regional Mato Grosso</a>.
+        <p align="justify">  
+          Professora na UFMT e Representante Institucional da SBC. Mestre em Engenharia de Software e Especialista em Planejamento, Implementação e Gestão da EAD pela UFF e graduada em Desenvolvimento de Software (IFF). Realiza pesquisas na área de Gênero e Tecnologias, Jogos e Gamificação. É coordenadora dos projetos <a href="http://www.meetup.com/pt/Meninas-Digitais-SBC/" target="_blank">Meninas Digitais Regional Mato Grosso</a> e <a href="http://www.deleteseupreconceito.com/" target="_blank">Delete Seu Preconceito</a>.
         </p>
     </div>
   </div> 
