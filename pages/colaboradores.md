@@ -50,6 +50,24 @@ header:
 <div class="show-for-large-up">
     <div class="row">
         <div class="small-12 columns">
+            <h3>Karen Figueiredo</h3>
+        </div><!-- /.small-12.columns -->
+    </div>
+  <div class="row">
+    <div class="large-6 columns">
+        <img src="http://inspiradanacomputacao.github.io/images/perfil_karen.png" width= "200px" alt="">
+      </div>
+    <div class="large-6 columns">
+        <p align="justify">
+          Professora do Instituto de Computação da UFMT e Mestra em Computação pela UFF. Coordenadora do <a href="http://www.deleteseupreconceito.com/" target="_blank">Delete Seu Preconceito</a> e <a href="http://www.meetup.com/pt/Meninas-Digitais-SBC/" target="_blank">Meninas Digitais Regional Mato Grosso</a>.
+        </p>
+    </div>
+  </div> 
+</div>
+
+<div class="show-for-large-up">
+    <div class="row">
+        <div class="small-12 columns">
             <h3>Lhaís Rodrigues</h3>
         </div><!-- /.small-12.columns -->
     </div>
