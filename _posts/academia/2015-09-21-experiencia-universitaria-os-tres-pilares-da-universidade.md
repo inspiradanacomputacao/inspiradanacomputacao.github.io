@@ -5,7 +5,7 @@ modified: 2015-09-21
 subheadline: "Academia"
 teaser: "Participando ativamente da tríade que move a universidade"
 image:
-    thumb:  we-all-can-do-it.jpg
+    thumb:  epe.png
 header:
     image_fullwidth: "banner_principal.jpg"
     caption: Image by InspirAda na Computação
