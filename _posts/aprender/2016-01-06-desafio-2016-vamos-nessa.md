@@ -5,7 +5,7 @@ modified: 2015-08-27
 subheadline: "Aprender"
 teaser: ""
 image:
-    thumb:  uri.png
+    thumb:  yoda.jpg
 header:
     image_fullwidth: "banner_principal.jpg"
     caption: Image by InspirAda na Computação
