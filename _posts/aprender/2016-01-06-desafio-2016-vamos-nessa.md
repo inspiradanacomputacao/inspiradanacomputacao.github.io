@@ -5,7 +5,7 @@ modified: 2015-08-27
 subheadline: "Aprender"
 teaser: ""
 image:
-    thumb:  cunhanta-digital.jpg
+    thumb:  uri.png
 header:
     image_fullwidth: "banner_principal.jpg"
     caption: Image by InspirAda na Computação
@@ -55,6 +55,7 @@ Assim surgiu a ideia do <strong>#D3safi66</strong>!
 <p>Por enquanto é zerar o <a href="https://www.urionlinejudge.com.br" target="_blank">URI Online Judge</a> em 1 ano. Ao todo são 1014 problemas (ui), o que dá em média 2 exercícios por dia. Aproveitarei para disponibilizar os códigos no Github para compartilhar e documentar o que estou fazendo.  Um motivo a mais é que após submeter a solução não temos como acessar o código enviado, ele não fica armazenado apenas é avaliado na submissão. </p>
 
 <strong>O que é URI Online Judge e como funciona? </strong> 
+
 <p>É um portal onde você pode resolver os problemas disponíveis usando C, C ++, Java ou Python. Não é necessário usar a mesma linguagem sempre, você pode resolver os exercícios utilizando uma e mudar quando quiser pois a escolha é feita na submissão do código. </p>
 
 <p>Os problemas são divididos em 8 grandes categorias: iniciante, ad-hoc, strings, estruturas e bibliotecas, matemática, paradigmas, grafos e geometria computacional. </p>
