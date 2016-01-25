@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "#004 - Só eu que não vou a Campus Party Brasil?"
+title: "#004 - Só eu que não vou pra Campus Party Brasil?"
 modified: 2015-01-25
 subheadline: "IlustrAda"
 teaser: ""
@@ -22,8 +22,8 @@ comments: true
 #TudoProntoProStreaming #Campusero</p>
 <div align="center">
     <figure>
-        <img src="http://inspiradanacomputacao.github.io/images/004_ilustrada.png" alt="Só eu que não vou a Campus Party Brasil?">
-        <figcaption>"Só eu que não vou a Campus Party Brasil?"</figcaption>
+        <img src="http://inspiradanacomputacao.github.io/images/004_ilustrada.png" alt="Só eu que não vou pra Campus Party Brasil?">
+        <figcaption>"Só eu que não vou pra Campus Party Brasil?"</figcaption>
     </figure>
 </div>
 
