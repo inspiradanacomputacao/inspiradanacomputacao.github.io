@@ -3,7 +3,7 @@ layout: page
 title: "Projeto para mulheres na tecnologia vence Campus Mobile 2016"
 modified: 2015-09-21
 subheadline: "Empreendedorismo"
-teaser: "coaShe. quer mudar cenário de mulheres na tecnologia  com plataforma mobile para coaching e mentoria"
+teaser: "coaShe. quer mudar cenário de mulheres na tecnologia através de plataforma mobile para coaching e mentoria"
 image:
     thumb:  equipe_coashe.jpg
 header:
@@ -23,6 +23,7 @@ tags:
     - Networking
     - Mentoria
     - Campus Party Brasil
+    - Startup & Makers
 comments: true 
 ---
 
@@ -74,13 +75,13 @@ comments: true
 <div align="center">
     <figure>
         <img src="http://inspiradanacomputacao.github.io/images/claudia_bauzer_entrevista_coashe.png" alt="Claudia Bauzer">
-        <figcaption>Claudia Bauzer. Uma das primeiras mulheres Doutora em Computação no Brasil</a> </figcaption> 
+        <figcaption>Claudia Bauzer, uma das primeiras mulheres Doutora em Computação no Brasil</a> </figcaption> 
     </figure> 
 </div>
 
 <p>A <a href="https://medium.com/@coaSheProject/claudia-bauzer-medeiros-f6cb1c1efef#.dd1w6jdgu" target="_blank">primeira entrevista</a> é com a Professora Claudia Medeiros Bauzer, uma das primeiras mulheres do Brasil a conquistar um título de doutora em Computação. Na <a href="https://medium.com/@coaSheProject/claudia-bauzer-medeiros-f6cb1c1efef#.dd1w6jdgu" target="_blank">entrevista</a>, as leitoras podem conhecer melhor o caminho profissional de Claudia Bauzer e se sentirem inspiradas com a carreira acadêmica.</p>
 
-<p>Na próxima semana, o <a href="http://www.coashe.com.br/" target="_blank">coaShe.</a> estará na Campus Party Brasil 9, expondo o projeto no Startup & Makers. Os fundadores estão planejando uma ação de marketing que vai entregar uma mensagem para as calouras dos cursos de Tecnologia da Unicamp e USP. Segundo Carolina, a ideia é que as visitantes da Campus Party que forem até o stand do <a href="http://www.coashe.com.br/" target="_blank">coaShe.</a> possam escrever uma mensagem para as mulheres que estão ingressando neste momento na área de tecnologia. 
+<p>Na próxima semana, o <a href="http://www.coashe.com.br/" target="_blank">coaShe.</a> estará na <a href="http://brasil.campus-party.org/" target="_blank">Campus Party Brasil[9]</a>, expondo o projeto no Startup & Makers. Os fundadores estão planejando uma ação de marketing que vai entregar uma mensagem para as calouras dos cursos de Tecnologia da Unicamp e USP. Segundo Carolina, a ideia é que as visitantes da Campus Party que forem até o stand do <a href="http://www.coashe.com.br/" target="_blank">coaShe.</a> possam escrever uma mensagem para as mulheres que estão ingressando neste momento na área de tecnologia. 
 
 <p><cite>“Estamos reforçando o foco do projeto, que é empoderar mulheres nas tomadas de decisão sobre sua jornada profissional, exercitar a autoconfiança e trocar experiências”. - Carolina Bonturi</cite></p>
 
