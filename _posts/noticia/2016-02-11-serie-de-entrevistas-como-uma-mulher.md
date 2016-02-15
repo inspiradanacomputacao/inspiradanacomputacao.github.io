@@ -3,9 +3,9 @@ layout: page
 title: "Série de Entrevistas: #ComoUmaMulher"
 modified: 2016-02-11
 subheadline: "Especial"
-teaser: "Mais que perguntas e respostas, conversa compartilhada."
+teaser: "Mais que perguntas e respostas, conversas compartilhada."
 image:
-    thumb:  
+    thumb:  banner_cum.png
 header:
     image_fullwidth: "banner_principal.jpg"
     caption: Image by InspirAda na Computação
