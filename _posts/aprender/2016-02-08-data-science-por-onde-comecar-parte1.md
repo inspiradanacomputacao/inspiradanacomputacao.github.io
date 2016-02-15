@@ -67,7 +67,6 @@ comments: true
 - Estude urgentemente. A maioria dos cursos e livros são em inglês, principalmente nessa área recente. <br />  <br />
 
 <strong>Programação/Python:</strong> <br />
-*Basicão: <br /> 
 - <a href="http://pycursos.com/python-para-zumbis/" target="_blank">Curso em Vídeo: Python para Zumbis</a> <br />
 - <a href="https://panda.ime.usp.br/pensepy/static/pensepy/" target="_blank">Livro: Como pensar como um cientista da Computação</a> <br />
 
@@ -77,7 +76,8 @@ comments: true
 
 *Intermediário: <br />
 - <a href="http://guidetodatamining.com/" target="_blank">Livro: Guia de Mineração de Dados</a> <br /> <br />
-
+<i>Update Bônus: Confira a apresentação <a href="http://www.slideshare.net/icaromedeiros/why-python-is-better-for-data-science" target="_blank">"Por que Python é o melhor para Ciência de Dados"</a> e conheça as possibilidades que a linguagem oferece.</i><br/><br /> 
+*Basicão: <br /> 
 
 <strong>Matemática +  Estatística:</strong> <br />
 - <a href="https://www.youtube.com/watch?v=0EySnmt_d_0&list=PLxI8Can9yAHfGeWW2TS_o4bAueT_ySiqG" target="_blank">Curso em Vídeo: Introdução a Estatística (Univesp)</a> <br />
